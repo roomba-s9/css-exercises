@@ -12,25 +12,6 @@ img {
   font-weight: 900;
 }
 
-/* edited */
-body {
-  text-align: center;
-}
-
-.title {
-  margin-bottom: 32px;
-}
-
-.everything {
-  display: flex;
-  justify-content: center;
-  gap: 52px;
-}
-
-.sections {
-  max-width: 200px;
-}
-
 /* do not edit this footer */
 .footer {
   position: fixed;
