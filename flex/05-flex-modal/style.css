@@ -67,3 +67,31 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* soln */
+.modal {
+  padding: 12px;
+  display: flex;
+  gap: 16px;
+}
+
+.icon,
+button {
+  flex-shrink: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
